@@ -25,7 +25,7 @@ python Setup.py
 
 Once you've set up the Clang toolchain (on Windows), compile the Dino game by following these steps:
 
-1. Navigate to the `dino` directory:
+1. Navigate to the `game` directory:
 
 ```bash
 cd game
