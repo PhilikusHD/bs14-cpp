@@ -48,7 +48,7 @@ Here's what each part does:
 > Linux users will need to use appropriate libraries for their platform and modify the compile command accordingly.
 
 3. After compiling, run the game by executing:
-4. 
+
 ```bash
 ./dino_game.exe
 ```
