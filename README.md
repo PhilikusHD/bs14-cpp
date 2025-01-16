@@ -34,7 +34,7 @@ cd game
 2. Run the following command to compile the game using Clang:
 
 ```bash
-clang++ ./dino.cpp -o dino_game.exe -Iinclude -Llib -lraylib -lopengl32 -lgdi32 -lwinmm
+clang++ dino.cpp -o dino_game.exe -Iinclude -Llib -lraylib -lopengl32 -lgdi32 -lwinmm
 ```
 
 Here's what each part does:
