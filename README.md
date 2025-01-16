@@ -38,7 +38,7 @@ clang++ dino.cpp -o dino_game.exe -Iinclude -Llib -lraylib -lopengl32 -lgdi32 -l
 ```
 
 Here's what each part does:
-- `./dino.cpp` — The source file for the Dino game.
+- `dino.cpp` — The source file for the Dino game.
 - `-o dino_game.exe` — Specifies the output executable file name.
 - `-Iinclude` — Includes the header files from the `include` directory.
 - `-Llib` — Links the libraries from the `lib` directory.
