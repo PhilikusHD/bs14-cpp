@@ -44,7 +44,7 @@ Here's what each part does:
 - `-Llib` — Links the libraries from the `lib` directory.
 - `-lraylib -lopengl32 -lgdi32 -lwinmm` — Links the necessary libraries for Raylib and OpenGL.
 
-> **Disclaimer**: The Raylib libraries (`libraylib`, `opengl32`, `lgdi32`, and `winmm`) are **only available for Windows**.  
+> **Disclaimer**: The Raylib libraries (`raylib`, `opengl32`, `lgdi32`, and `winmm`) are **only included for Windows**.  
 > Linux users will need to use appropriate libraries for their platform and modify the compile command accordingly.
 
 3. After compiling, run the game by executing:
